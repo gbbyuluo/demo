@@ -1,0 +1,58 @@
+/**
+ * Created by gebb on 2018/8/10.
+ */
+var imgData = {
+    res: [],
+    person: {
+        sex: ['./img/person/man.png', './img/person/woman.png'],
+        man: {
+            hair: ['./img/person/man/hair/1.png',
+                './img/person/man/hair/2.png',
+                './img/person/man/hair/3.png',
+                './img/person/man/hair/4.png'],
+            upDress:['./img/person/man/upDress/1.png',
+                './img/person/man/upDress/2.png',
+                './img/person/man/upDress/3.png',
+                './img/person/man/upDress/4.png'],
+            downDress:['./img/person/man/downDress/1.png',
+                './img/person/man/downDress/2.png',
+                './img/person/man/downDress/3.png',
+                './img/person/man/downDress/4.png'],
+            fashion:['./img/person/man/fashion/1.png',
+                './img/person/man/fashion/2.png',
+                './img/person/man/fashion/3.png',
+                './img/person/man/fashion/4.png'],
+
+        },
+        woman: {
+            hair: ['./img/person/woman/hair/1.png',
+                './img/person/woman/hair/2.png',
+                './img/person/woman/hair/3.png',
+                './img/person/woman/hair/4.png'],
+            upDress:['./img/person/woman/upDress/1.png',
+                './img/person/woman/upDress/2.png',
+                './img/person/woman/upDress/3.png',
+                './img/person/woman/upDress/4.png'],
+            downDress:['./img/person/woman/downDress/1.png',
+                './img/person/woman/downDress/2.png',
+                './img/person/woman/downDress/3.png',
+                './img/person/woman/downDress/4.png'],
+            fashion:['./img/person/woman/fashion/1.png',
+                './img/person/woman/fashion/2.png',
+                './img/person/woman/fashion/3.png',
+                './img/person/woman/fashion/4.png'],
+        }
+    },
+    car:['./img/person/car/1.png',
+        './img/person/car/2.png',
+        './img/person/car/3.png',
+        './img/person/car/4.png'],
+    bg:['./img/person/bg/1.png',
+        './img/person/bg/2.png',
+        './img/person/bg/3.png',
+        './img/person/bg/4.png'],
+    decorate:['./img/person/decorate/1.png',
+        './img/person/decorate/2.png',
+        './img/person/decorate/3.png',
+        './img/person/decorate/4.png'],
+}
